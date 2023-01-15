@@ -1,6 +1,8 @@
 # Credit_Card_Project
 Credit card fraud detection - Machine Learning
 
+Because the dataframe is too large you can download the CSV file on this link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount&language=Python
+
 
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
